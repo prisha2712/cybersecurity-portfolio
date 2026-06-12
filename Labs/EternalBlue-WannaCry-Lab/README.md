@@ -38,3 +38,13 @@ The ransomware simulation successfully executed on the victim machine.
 - Legacy systems are highly vulnerable.
 - Network services should be regularly patched.
 - Detection opportunities exist during scanning, exploitation, and payload execution.
+
+ ## Skills Demonstrated
+
+- Vulnerability Assessment
+- Network Enumeration
+- Metasploit Framework
+- Post Exploitation
+- Ransomware Analysis
+- Windows Security
+- Incident Response Concepts
